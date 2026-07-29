@@ -1,6 +1,6 @@
 # Barret Kirumira
 **Software Engineering Student | Embedded AI & Parallel Systems**  
-Athens, OH | [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE) | [GitHub](https://github.com/barretkirumira)
+Athens, OH | [LinkedIn](https://linkedin.com/in/barretkirumira) | [GitHub](https://github.com/barretkirumira)
 
 ---
 
